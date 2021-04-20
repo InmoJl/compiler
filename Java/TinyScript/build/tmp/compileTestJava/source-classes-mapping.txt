@@ -1,0 +1,14 @@
+common/AlphabetHelperTests.java
+ common.AlphabetHelperTests
+common/PeekIteratorTests.java
+ common.PeekIteratorTests
+lexer/LexerTests.java
+ lexer.LexerTests
+lexer/TokenTests.java
+ lexer.TokenTests
+parser/ParseExprTests.java
+ parser.ParseExprTests
+parser/SimpleParserTests.java
+ parser.SimpleParserTests
+parser/StmtTests.java
+ parser.StmtTests

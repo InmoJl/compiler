@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f382edc-41cb-43ef-a159-d645866c08f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1jfg1XK7aYETtK0g4N5Fx0vpOkp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="ts.external.directory.path" value="D:\Development\TypeScript\TinyScript\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Mocha.Test_LinkedList.Test push and pop">
+    <configuration name="Test_LinkedList" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/lib/tests/LinkedList.test.ts</test-file>
+      <test-names>
+        <name value="Test_LinkedList" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_LinkedList.Test add" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/lib/tests/LinkedList.test.ts</test-file>
+      <test-names>
+        <name value="Test_LinkedList" />
+        <name value="Test add" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_LinkedList.Test push and pop" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/lib/tests/LinkedList.test.ts</test-file>
+      <test-names>
+        <name value="Test_LinkedList" />
+        <name value="Test push and pop" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.Test_LinkedList.Test push and pop" />
+        <item itemvalue="Mocha.Test_LinkedList.Test add" />
+        <item itemvalue="Mocha.Test_LinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f382edc-41cb-43ef-a159-d645866c08f1" name="Default Changelist" comment="" />
+      <created>1604200345198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604200345198</updated>
+      <workItem from="1604200346276" duration="452000" />
+      <workItem from="1604202029693" duration="4000" />
+      <workItem from="1604215964174" duration="509000" />
+      <workItem from="1604216502210" duration="6033000" />
+      <workItem from="1604330430180" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lib/LinkedList/index.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="125" width="700" height="584" key="#JSON" timestamp="1604200684794">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="555" y="125" width="700" height="584" key="#JSON/0.0.1536.834@0.0.1536.834" timestamp="1604200684794" />
+    <state x="639" y="215" key="#Notifications" timestamp="1604330477250">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="639" y="215" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1604330477250" />
+    <state x="468" y="64" width="919" height="677" key="#TypeScript" timestamp="1604200676398">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="468" y="64" width="919" height="677" key="#TypeScript/0.0.1536.834@0.0.1536.834" timestamp="1604200676398" />
+    <state width="1515" height="178" key="GridCell.Tab.0.bottom" timestamp="1604223944094">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="178" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1604223944094" />
+    <state width="1515" height="178" key="GridCell.Tab.0.center" timestamp="1604223944094">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="178" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1604223944094" />
+    <state width="1515" height="178" key="GridCell.Tab.0.left" timestamp="1604223944094">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="178" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1604223944094" />
+    <state width="1515" height="178" key="GridCell.Tab.0.right" timestamp="1604223944094">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="178" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1604223944094" />
+    <state x="418" y="41" key="SettingsEditor" timestamp="1604200661455">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="418" y="41" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1604200661455" />
+  </component>
+</project>

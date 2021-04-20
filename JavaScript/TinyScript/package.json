@@ -1,0 +1,20 @@
+{
+  "name": "tiny_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "linkedlist": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.6",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0"
+  }
+}

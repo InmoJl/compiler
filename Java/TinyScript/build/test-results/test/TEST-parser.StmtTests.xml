@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parser.StmtTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-10T03:30:34" hostname="DESKTOP-U7P9LEI" time="0.047">
+  <properties/>
+  <testcase name="assign()" classname="parser.StmtTests" time="0.047"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
